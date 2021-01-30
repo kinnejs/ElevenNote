@@ -1,3 +1,4 @@
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CoreCompileInputs.cache
 C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll.config
 C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll
 C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\bin\Debug\ElevenNote.Data.pdb
@@ -28,8 +29,10 @@ C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\b
 C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\bin\Debug\System.Net.Http.Formatting.xml
 C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.xml
 C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.Owin.xml
-C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csprojAssemblyReference.cache
-C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CoreCompileInputs.cache
 C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csprojAssemblyReference.cache
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.initMigration.resources

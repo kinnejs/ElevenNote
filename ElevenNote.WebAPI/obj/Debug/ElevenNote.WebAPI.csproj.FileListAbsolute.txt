@@ -1,5 +1,3 @@
-C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.csprojAssemblyReference.cache
-C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.WebAPI\bin\ElevenNote.WebAPI.dll.config
 C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.WebAPI\bin\ElevenNote.WebAPI.dll
 C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.WebAPI\bin\ElevenNote.WebAPI.pdb
@@ -120,6 +118,8 @@ C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.WebAPI
 C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.WebAPI\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.WebAPI\bin\System.Web.Http.Owin.xml
 C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.csprojAssemblyReference.cache
+C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.csproj.CopyComplete
 C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.dll
 C:\Users\kinne\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.pdb
